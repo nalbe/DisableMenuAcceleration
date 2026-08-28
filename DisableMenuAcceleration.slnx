@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DisableMenuAcceleration/DisableMenuAcceleration.vcxproj" Id="d477a7b4-a140-4b14-a61f-33a261571e1d" />
+</Solution>

@@ -1,0 +1,36 @@
+# ===== Visual Studio =====
+.vs/
+.vsconfig
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+ipch/
+*.aps
+
+# ===== Build output =====
+**/x64/
+**/Debug/
+**/Release/
+**/Win32/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
+*.obj
+*.lib
+*.log
+*.recipes
+
+# ===== Editor =====
+.vscode/
+*.code-workspace
+
+# ===== OS =====
+Thumbs.db
+Desktop.ini
+.DS_Store
